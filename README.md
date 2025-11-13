@@ -7,12 +7,12 @@ This repository documents my hands-on Wazuh lab, where I deployed a Wazuh Manage
 ![Windows host IP configuration](assets/Windows-IP.png)  
 *Figure — Windows host IPv4 information used to confirm network connectivity to the Wazuh manager.*
 
-![Ubuntu VM IP address](assets/Ubuntu-IP.png)  
+![Ubuntu VM IP address](assets/Ubuntu-Ip.png)  
 *Figure — Ubuntu Wazuh manager server showing its bridged network IP (`ip a`) for dashboard and agent communication.*
 
 ## 🛠️ Wazuh Manager Installation (Ubuntu)
 
-![Wazuh manager installation output](assets/Wazuh-Install-Complete.png)  
+![Wazuh manager installation output](assets/Wazuh-Complete-Installation.png)  
 *Figure — Wazuh manager, Filebeat, and dashboard successfully installed on Ubuntu. The script displays the auto-generated admin credentials and confirms the dashboard is accessible over HTTPS.*
 
 ## Wazuh Dashboard Access
