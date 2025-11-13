@@ -47,7 +47,7 @@ This repository documents my hands-on Wazuh lab, where I deployed a Wazuh Manage
 ![Windows agent ossec.conf before adding FIM path](assets/Wazuh-FIM-Config-Initial.png)  
 *Figure — Viewing the default `ossec.conf` on the Windows agent before adding custom File Integrity Monitoring directories.*
 
-![FIM dashboard showing no results yet] (assets/Wazuh-FIM-No-Results.png)  
+![FIM dashboard showing no results yet](assets/Wazuh-FIM-No-Results.png)  
 *Figure — Wazuh File Integrity Monitoring dashboard initially showing no events before monitoring paths were added and changes were made.*
 
 ![Adding realtime directory to ossec.conf for FIM](assets/Wazuh-FIM-Directory-Added.png)  
